@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name -Swarnaprabha Dash 
 contact no - 9437816559
 
@@ -42,3 +43,6 @@ You can start editing the page by modifying `src/App.jsx`. The page auto-updates
 
 ---
 
+=======
+# project-management-
+>>>>>>> f9743ad5ff753f212ec3e9115b63ca4398e18b3a
